@@ -1,2 +1,82 @@
 
-/* Your CSS Code here. */
+
+.Main{
+
+    width: 100%;
+    height: 430px;
+
+}
+
+.First-box{
+   border: 1px solid black;
+
+   width: 50%;  
+    
+}
+.First-box table{
+    width: 100%;
+    
+    border: 1px solid black;
+}
+.First-box th{
+    border: 1px solid black;
+    
+}
+.First-box td{
+    border: 1px solid black;
+    text-align: center;
+}
+
+.second-box{
+   
+    border: 1px solid black;
+}
+.second-box th{
+    border: 1px solid black;
+    width: 100%;
+
+}
+.second-box table{
+   
+    width: 100%;
+    border: 1px solid black;
+}
+.second-box ul{
+    text-align: center;
+}
+.second-box td{
+    border: 1px solid black;
+}
+
+.third-box{
+    border: 1px solid black;
+
+}
+.third-box th{
+    border: 1px solid black;
+    width: 100%;
+}
+.third-box table{
+
+    width: 100%;
+}
+.third-box td{
+    border: 1px solid black;
+   text-align: center;
+}
+
+.fourth-box{
+    border: 1px solid black;
+}
+.fourth-box table{
+
+    border: 1px solid black;
+    width: 100%;
+}
+.fourth-box th{
+    border: 1px solid black;
+}
+.fourth-box td{
+    border: 1px solid black;
+    text-align: center;
+}
